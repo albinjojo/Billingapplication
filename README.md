@@ -1,16 +1,23 @@
-# alphonsa_travels
+Flutter Billing Application
 
-A new Flutter project.
+Project Overview
 
-## Getting Started
+This Flutter application is designed to help you create structured bills and generate PDFs that can be easily sent to your customers.
 
-This project is a starting point for a Flutter application.
+Key Features
 
-A few resources to get you started if this is your first Flutter project:
+Bill CreationAccept input from users to generate well-structured bills.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+PDF GenerationAutomatically create a PDF of the bill in a professional format.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Shareable OutputEasily share the generated PDF with customers via email or messaging apps.
+
+How to Use
+
+Input Details: Enter customer information, itemized details, and any additional notes.
+
+Generate Bill: Review the structured bill and confirm.
+
+Create PDF: Save the bill as a PDF for sharing.
+
+Send to Customer: Share the PDF directly through the app.
