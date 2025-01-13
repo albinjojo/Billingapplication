@@ -1,23 +1,21 @@
-Flutter Billing Application
+# Billing and E-Bill Creation App
 
-Project Overview
+This repository contains a Flutter-based billing and e-bill creation application developed for a client. The app provides a user-friendly interface tailored to the client's needs and leverages Firebase for secure data storage and management.
 
-This Flutter application is designed to help you create structured bills and generate PDFs that can be easily sent to your customers.
+## Features
 
-Key Features
+- **Customizable UI**: A dynamic and user-centric design that adapts to client requirements.
+- **Billing Features**:
+  - Generate detailed invoices and bills.
+  - Manage customer details and purchase records.
+- **E-Bill Creation**:
+  - Create and send electronic bills via email or messaging platforms.
+  - Easy export options for PDF or other formats.
+- **Firebase Integration**:
+  - Secure cloud storage for billing and user data.
+  - Real-time database for seamless data updates.
 
-Bill CreationAccept input from users to generate well-structured bills.
+## Tech Stack
 
-PDF GenerationAutomatically create a PDF of the bill in a professional format.
-
-Shareable OutputEasily share the generated PDF with customers via email or messaging apps.
-
-How to Use
-
-Input Details: Enter customer information, itemized details, and any additional notes.
-
-Generate Bill: Review the structured bill and confirm.
-
-Create PDF: Save the bill as a PDF for sharing.
-
-Send to Customer: Share the PDF directly through the app.
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase (Authentication, Firestore, Cloud Functions)
